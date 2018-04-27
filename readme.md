@@ -5,35 +5,35 @@ I wanted to play around a little more with generative neural networks, and I tho
 
 ## Dog Names
 A few interesting dog names:
-    - Zora
-    - Toomy
-    - Augh
-    - Pepsey
-    - Zebby
-    - Ornagicor
-    - Lola Louise
-    - Chickon
-    - Kollie
+  - Zora
+  - Toomy
+  - Augh
+  - Pepsey
+  - Zebby
+  - Ornagicor
+  - Lola Louise
+  - Chickon
+  - Kollie
 
 ## Cat names
 A few interesting cat names:
-    - Ire
-    - Little Cettla
-    - Silven
-    - GLex
-    - Ziva
-    - Hominus
-    - Starora
-    - Dalsie Samine
+  - Ire
+  - Little Cettla
+  - Silven
+  - GLex
+  - Ziva
+  - Hominus
+  - Starora
+  - Dalsie Samine
 
 ## Dog breeds
 A few interesting dog breeds:
-    - Norwegian Buhund
-    - Gillman Retriever
-    - Beerian Bullnese
-    - Rotterhound
-    - Barbet
-    - Perium Dog
-    - Basco Hound
-    - Beaglo
-    - Saint Hound
+  - Norwegian Buhund
+  - Gillman Retriever
+  - Beerian Bullnese
+  - Rotterhound
+  - Barbet
+  - Perium Dog
+  - Basco Hound
+  - Beaglo
+  - Saint Hound
